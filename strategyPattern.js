@@ -1,4 +1,5 @@
 /* 策略模式 */
+
 var strategies = {
     'S': function(salary) {
         return salary * 4
